@@ -1,0 +1,96 @@
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.deps.json
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.pdb
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.AssemblyReference.cache
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfoInputs.cache
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfo.cs
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.CoreCompileInputs.cache
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\refint\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.pdb
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\ref\EmailSerrvices.dll
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.deps.json
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.dll
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.pdb
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.AssemblyReference.cache
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfoInputs.cache
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfo.cs
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.CoreCompileInputs.cache
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.dll
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\refint\EmailSerrvices.dll
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.pdb
+E:\c# sgu\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\ref\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.deps.json
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.pdb
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.AssemblyReference.cache
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfoInputs.cache
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfo.cs
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.CoreCompileInputs.cache
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\refint\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.pdb
+C:\Users\Duc Anh\Desktop\Test\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\ref\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.deps.json
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.pdb
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.AssemblyReference.cache
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfoInputs.cache
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfo.cs
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.CoreCompileInputs.cache
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\refint\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.pdb
+C:\Users\Duc Anh\Desktop\Nhóm 15 - Sáng T7\TranAnhBadminton_A.I\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\ref\EmailSerrvices.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.deps.json
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.pdb
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.AssemblyReference.cache
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfoInputs.cache
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfo.cs
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.CoreCompileInputs.cache
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\refint\EmailSerrvices.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.pdb
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\ref\EmailSerrvices.dll
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.deps.json
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.dll
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.pdb
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.AssemblyReference.cache
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfoInputs.cache
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfo.cs
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.CoreCompileInputs.cache
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.dll
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\refint\EmailSerrvices.dll
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.pdb
+D:\DATA\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\ref\EmailSerrvices.dll
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.deps.json
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.dll
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.pdb
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.AssemblyReference.cache
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfoInputs.cache
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfo.cs
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.CoreCompileInputs.cache
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.dll
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\refint\EmailSerrvices.dll
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.pdb
+D:\DATA\Other\HK2_Nam_4\DACN\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\ref\EmailSerrvices.dll
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.deps.json
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.dll
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\bin\Debug\net8.0\EmailSerrvices.pdb
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.AssemblyReference.cache
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfoInputs.cache
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.AssemblyInfo.cs
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.csproj.CoreCompileInputs.cache
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.dll
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\refint\EmailSerrvices.dll
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\EmailSerrvices.pdb
+C:\Users\kudos\Desktop\WorkSpace\C#\Project\TranAnhBadminton\EmailSerrvices\obj\Debug\net8.0\ref\EmailSerrvices.dll

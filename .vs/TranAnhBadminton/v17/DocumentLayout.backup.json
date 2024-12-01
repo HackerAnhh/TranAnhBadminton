@@ -1,0 +1,730 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\_cartlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\_cartlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\_invoicelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\_invoicelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\_productlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\_productlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\_profilelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\_profilelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\_storelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\_storelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\errorr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\errorr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\products\\caulong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\products\\caulong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\products\\phukien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\products\\phukien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\products\\sales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\products\\sales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\shared\\components\\headercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\shared\\components\\headercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\shared\\components\\numbercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\shared\\components\\numbercart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\shopcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\shopcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\home\\nppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\home\\nppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\partialview\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\partialview\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\partialview\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\partialview\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\layout\\partialview\\_navigationpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\layout\\partialview\\_navigationpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\home\\caulongcolection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\home\\caulongcolection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\checkout\\checkoutsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\checkout\\checkoutsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\checkout\\checkoutfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\checkout\\checkoutfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\accounts\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\accounts\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|c:\\users\\kudos\\desktop\\workspace\\c#\\project\\trananhbadminton\\tab\\views\\accounts\\changepass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F347F7A-144F-419F-806D-1804432874A0}|TAB\\TAB.csproj|solutionrelative:tab\\views\\accounts\\changepass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_CartLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_CartLayout.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\_CartLayout.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_CartLayout.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\_CartLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:30:59.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ProfileLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_ProfileLayout.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\_ProfileLayout.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_ProfileLayout.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\_ProfileLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:01:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ProductLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_ProductLayout.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\_ProductLayout.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_ProductLayout.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\_ProductLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:01:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_Layout.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:00:31.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_AuthLayout.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAgAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:00:08.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_StoreLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_StoreLayout.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\_StoreLayout.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_StoreLayout.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\_StoreLayout.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:01:34.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_InvoiceLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_InvoiceLayout.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\_InvoiceLayout.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\_InvoiceLayout.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\_InvoiceLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:12:22.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Errorr.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\Errorr.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\Errorr.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\Errorr.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\Errorr.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:30:38.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:13:09.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\Index.cshtml*",
+              "RelativeToolTip": "TAB\\Views\\Products\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:13:27.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhuKien.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\PhuKien.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Products\\PhuKien.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\PhuKien.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Products\\PhuKien.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:05:22.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sales.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\Sales.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Products\\Sales.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\Sales.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Products\\Sales.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:16:08.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\Search.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Products\\Search.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\Search.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Products\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:15:57.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CauLong.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\CauLong.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Products\\CauLong.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Products\\CauLong.cshtml*",
+              "RelativeToolTip": "TAB\\Views\\Products\\CauLong.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:40:43.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Shared\\Components\\HeaderCart\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:45:36.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Shared\\Components\\NumberCart\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:45:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:45:27.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:45:23.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\ShopCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\ShopCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\ShopCart\\Index.cshtml",
+              "RelativeToolTip": "TAB\\Views\\ShopCart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:45:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TAB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:45:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TAB\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:45:08.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Index.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Index.cshtml",
+              "RelativeToolTip": "TAB\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:45:42.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TAB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TAB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:07:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_NavigationPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\PartialView\\_NavigationPartialView.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\PartialView\\_NavigationPartialView.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\PartialView\\_NavigationPartialView.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\PartialView\\_NavigationPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:17:23.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_HeaderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\PartialView\\_HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\PartialView\\_HeaderPartial.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\PartialView\\_HeaderPartial.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\PartialView\\_HeaderPartial.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:18:57.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_FooterPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\PartialView\\_FooterPartialView.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Layout\\PartialView\\_FooterPartialView.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Layout\\PartialView\\_FooterPartialView.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Layout\\PartialView\\_FooterPartialView.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:19:04.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NPPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Home\\NPPartial.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Home\\NPPartial.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Home\\NPPartial.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Home\\NPPartial.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:19:10.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CauLongColection.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Home\\CauLongColection.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Home\\CauLongColection.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Home\\CauLongColection.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Home\\CauLongColection.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:40:18.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TAB\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TAB\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwHkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:46:32.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Program.cs",
+              "RelativeDocumentMoniker": "TAB\\Program.cs",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Program.cs",
+              "RelativeToolTip": "TAB\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:04:39.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:01:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TAB\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:59:37.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TAB\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:59:36.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TAB\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\appsettings.Development.json",
+              "RelativeToolTip": "TAB\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T16:58:55.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\appsettings.json",
+              "RelativeDocumentMoniker": "TAB\\appsettings.json",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\appsettings.json",
+              "RelativeToolTip": "TAB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T16:58:46.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Startup.cs",
+              "RelativeDocumentMoniker": "TAB\\Startup.cs",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Startup.cs",
+              "RelativeToolTip": "TAB\\Startup.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:58:30.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CheckoutSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Checkout\\CheckoutSuccess.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Checkout\\CheckoutSuccess.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Checkout\\CheckoutSuccess.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Checkout\\CheckoutSuccess.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:38:33.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CheckoutFail.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Checkout\\CheckoutFail.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Checkout\\CheckoutFail.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Checkout\\CheckoutFail.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Checkout\\CheckoutFail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:38:30.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Accounts\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Accounts\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Accounts\\ChangePassword.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Accounts\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:38:24.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ChangePass.cshtml",
+              "DocumentMoniker": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Accounts\\ChangePass.cshtml",
+              "RelativeDocumentMoniker": "TAB\\Views\\Accounts\\ChangePass.cshtml",
+              "ToolTip": "C:\\Users\\kudos\\Desktop\\WorkSpace\\C#\\Project\\TranAnhBadminton\\TAB\\Views\\Accounts\\ChangePass.cshtml",
+              "RelativeToolTip": "TAB\\Views\\Accounts\\ChangePass.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T16:38:21.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

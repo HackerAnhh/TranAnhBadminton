@@ -1,0 +1,12 @@
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\bin\Release\net8.0\EmailSerrvices.deps.json
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\bin\Release\net8.0\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\bin\Release\net8.0\EmailSerrvices.pdb
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Release\net8.0\EmailSerrvices.csproj.AssemblyReference.cache
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Release\net8.0\EmailSerrvices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Release\net8.0\EmailSerrvices.AssemblyInfoInputs.cache
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Release\net8.0\EmailSerrvices.AssemblyInfo.cs
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Release\net8.0\EmailSerrvices.csproj.CoreCompileInputs.cache
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Release\net8.0\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Release\net8.0\refint\EmailSerrvices.dll
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Release\net8.0\EmailSerrvices.pdb
+C:\Users\Duc Anh\Desktop\TranAnhBadminton\EmailSerrvices\obj\Release\net8.0\ref\EmailSerrvices.dll

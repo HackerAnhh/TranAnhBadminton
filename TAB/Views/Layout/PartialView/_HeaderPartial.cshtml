@@ -1,0 +1,145 @@
+﻿<header>
+    <!-- TOP HEADER -->
+    <div id="top-header">
+        <div class="container">
+            <ul class="header-links pull-left">
+                <li><a href="#"><i class="fa fa-phone"></i> 0932690343
+                    </a></li>
+                <li><a href="https://mail.google.com/" target="_blank"><i class="fa fa-envelope-o"></i> kudoshinichi2804@gmail.com</a></li>
+                <li><a href="https://www.google.com/maps/place/Tr%C6%B0%E1%BB%9Dng+%C4%90%E1%BA%A1i+h%E1%BB%8Dc+S%C3%A0i+G%C3%B2n@10.7599171,106.6796834,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f1b7c3ed289:0xa06651894598e488!8m2!3d10.7599171!4d106.6822583!16s%2Fm%2F02qvnkv?hl=vi-VN&entry=ttu" target="_blank"><i class="fa fa-map-marker"></i> SGU</a></li>
+            </ul>
+            <ul class="header-links pull-right">
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li><a href="MyAccount.html"><i class="fa fa-user-o"></i>Xin chào @User.Identity.Name</a></li>
+                    <li><a href="logout"><i class="fas fa-power-off"></i>Đăng xuất</a></li>
+                }
+                else
+                {
+                    <li><a href="register.html"><i class="far fa-registered"></i>Đăng ký</a></li>
+                    <li><a href="login.html"><i class="fas fa-power-off"></i>Đăng nhập</a></li>
+                }
+            </ul>
+        </div>
+    </div>
+    <!-- /TOP HEADER -->
+    <!-- MAIN HEADER -->
+    <div id="header">
+        <!-- container -->
+        <div class="container">
+            <!-- row -->
+            <div class="row">
+                <!-- LOGO -->
+                <div class="col-md-3">
+                    <div class="header-logo">
+                        <a asp-controller="Home" asp-action="Index" class="logo">
+                            <img src="~/_UserAssets/img/logoo.png" style="height:100px;" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!-- /LOGO -->
+                <!-- SEARCH BAR -->
+                <div class="col-md-6">
+                    <div class="header-search">
+                        @using (Html.BeginForm("Search", "Products", FormMethod.Post))
+                        {
+                            <form asp-controller="Products" asp-action="Search">
+                                <input class="input" name="searchStr" placeholder="Search here" value="@ViewData["CurrentFilter"]" required />
+                                <button type="submit" class="search-btn">Tìm kiếm</button>
+                                <button id="startSpeech" class="search-btn">Speech</button>
+                                <button id="stopSpeech" class="search-btn" disabled>Stop Speak</button>
+                                
+                            </form>
+                        }
+
+                    </div>
+
+                    
+                    <div id="output"></div>
+                    <div id="stopDiv"></div>
+
+                    <script>
+                        document.addEventListener('DOMContentLoaded', (event) => {
+                            const inputField = document.querySelector('.input');
+                            inputField.value = null;
+                            const startSpeechButton = document.getElementById('startSpeech');
+                            const stopSpeechButton = document.getElementById('stopSpeech');
+                            const outputDiv = document.getElementById('output');
+                            const stopDiv = document.getElementById('stopDiv');
+
+                            let recognition = new webkitSpeechRecognition(); // For WebKit browsers like Chrome
+
+                            recognition.continuous = true;
+                            recognition.lang = 'vi-VN';
+
+                            recognition.onstart = () => {
+                                outputDiv.innerHTML = 'Listening...';
+                                startSpeechButton.disabled = true;
+                                stopSpeechButton.disabled = false;
+                            };
+
+                            recognition.onresult = (event) => {
+                                const transcript = event.results[event.results.length - 1][0].transcript;
+                                if (outputDiv.innerHTML == "Listening...") {
+                                    outputDiv.innerHTML = "";
+                                }
+                                outputDiv.innerHTML = outputDiv.innerHTML + ' ' + transcript;
+                                const inputField = document.querySelector('.input'); // Chọn thẻ input bằng class
+                                const searchButton = document.querySelector('.search-btn');
+                                inputField.value = transcript; // Đặt giá trị của thẻ input
+                                searchButton.click();
+                                
+                            };
+
+                            recognition.onerror = (event) => {
+                                outputDiv.innerHTML = 'Error occurred: ' + event.error;
+                                stopSpeech();
+                            };
+
+                            recognition.onend = () => {
+                                stopDiv.innerHTML = 'Speech recognition stopped.';
+                                startSpeechButton.disabled = false;
+                                stopSpeechButton.disabled = true;
+                            };
+
+                            startSpeechButton.addEventListener('click', startSpeech);
+                            stopSpeechButton.addEventListener('click', stopSpeech);
+
+                            function startSpeech() {
+                                recognition.start();
+                            }
+
+                            function stopSpeech() {
+                                recognition.stop();
+                            }
+                        });
+                    </script>
+                </div>
+                <!-- /SEARCH BAR -->
+                <!-- ACCOUNT -->
+                <div class="col-md-3 clearfix">
+                    <div class="header-ctn">
+                        <!-- Cart -->
+                        <div class="dropdown">
+                            @await Component.InvokeAsync("NumberCart")
+                            @await Component.InvokeAsync("HeaderCart")
+                        </div>
+                        <!-- /Cart -->
+                        <!-- Menu Toogle -->
+                        <div class="menu-toggle">
+                            <a href="#">
+                                <i class="fa fa-bars"></i>
+                                <span>Menu</span>
+                            </a>
+                        </div>
+                        <!-- /Menu Toogle -->
+                    </div>
+                </div>
+                <!-- /ACCOUNT -->
+            </div>
+            <!-- row -->
+        </div>
+        <!-- container -->
+    </div>
+    <!-- /MAIN HEADER -->
+</header>
